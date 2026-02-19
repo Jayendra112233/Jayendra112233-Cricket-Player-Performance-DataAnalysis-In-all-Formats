@@ -1,0 +1,2 @@
+# Jayendra112233-Cricket-Player-Performance-DataAnalysis-In-all-Formats
+This project focuses on analyzing cricket player performance across all major formats — Test, One Day Internationals (ODI), T20 Internationals, and Indian Premier League (IPL). The objective is to build a complete end-to-end data analysis that collects raw match data, transforms it into structured datasets, and generates meaningful insights.
